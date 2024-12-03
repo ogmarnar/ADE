@@ -1,153 +1,153 @@
 [
-    {
-        "entraTenantId": "ad8389d4-c50c-4a7c-809f-655e29809ab4",
-        "tenantDescription": "Telos Team ApS"
-    }
-    {
-        "entraTenantId": "2de80c6f-cc5c-4d63-a0c0-f0328cd8ad2a",
-        "tenantDescription": "Icelandic Fish partners"
-    }
-    {
-        "entraTenantId": "9983fb2f-ef02-434f-85c2-ad487848ad4c",
-        "tenantDescription": "Lava Seafood ehf."    
-    }
-    {
-        "entraTenantId": "19f9e26f-481c-46fa-adb9-d454bef42067",
-        "tenantDescription": "IceMar ehf."    
-    }
-    {
-        "entraTenantId": "723dabff-58a6-449a-a055-8e540868db72",
-        "tenantDescription": "Kuldaboli ehf."  
-    }
-    {
-        "entraTenantId": "121dd6e6-9bdd-4634-8c45-14bf31953b11",
-        "tenantDescription": "G.P.G. Seafood ehf."	
-    }
-    {
-        "entraTenantId": "dec57f58-11b3-40e6-872d-4dc669780772",
-        "tenantDescription": "Fiskkaup hf."
-    }
-    {
-        "entraTenantId": "05b9956e-65c9-4101-b354-a5ff80c16683",
-        "tenantDescription": "Hraðfrystihús Hellissands"        
-    }
-    {
-        "entraTenantId": "08107f38-e08c-48cb-b617-3e946877f400",
-        "tenantDescription": "Marz sjávarafurðir ehf"    
-    }
-    {
-        "entraTenantId": "60341f86-f587-4a64-ad1d-0673880e088e",
-        "tenantDescription": "Útgerðarfélag Reykjavíkur hf."  
-    }
-    {
-        "entraTenantId": "e8c86932-dc07-473e-b919-6330a45f445e",
-    "tenantDescription": "Arctic Prime Fisheries Aps."
-    }
-    {
-        "entraTenantId": "3e16a088-bae3-4be2-9566-65feaab59de7",
-    "tenantDescription": "Iceland Seafood ehf"        
-    }
-    {
-        "entraTenantId": "07812b67-c552-428d-bcb8-8a36bcd1ee90",
-        "tenantDescription": "Hraðfrystihúsið - Gunnvör hf."  
-    }
-    {
-        "entraTenantId": "9fcb18ca-5a2b-4726-9bce-8d4449aa4998",
-        "tenantDescription": "Þorbjörn hf."
-    
-    }
-    {
-        "entraTenantId": "c924dda7-5da7-4107-a6ce-3793a099e618",
-        "tenantDescription": "Kampi ehf"
-    
-    }
-    {
-        "entraTenantId": "d5b5237a-2fcf-4026-99c7-db886f7a06d5",
-        "tenantDescription": "Síldarvinnslan"
-    
-    }
-    {
-        "entraTenantId": "025a44c9-42cf-42f8-adf3-90920a23793d",
-        "tenantDescription": "Danica sjávarafurðir ehf"
-    
-    }
-    {
-        "entraTenantId": "c551d1af-488a-4464-a5ac-ed38911202e3",
-        "tenantDescription": "WiseFish ehf."
-    
-    }
-    {
-        "entraTenantId": "e0607d81-11db-4e73-b021-568727b9fbc2",
-        "tenantDescription": "EE ehf."
-    
-    }
-    {
-        "entraTenantId": "4643afdd-7b9d-49cf-89c2-310ae11dd4b5",
-        "tenantDescription": "Íslandssaga"
-    }
-    {
-        "entraTenantId": "1c6f3886-7382-4452-9a48-048281a0c5a1",
-        "tenantDescription": "Spes Seafood ehf."
-    }
-    {
-        "entraTenantId": "381b2412-72d9-4793-a70d-41f8137d6830",
-        "tenantDescription": "Jakob Valgeir ehf"
-    }
-    {
-        "entraTenantId": "819dc9ce-9ffd-4ee1-a819-c06902a9d81a",
-        "tenantDescription": "Menja hf."
-    }
-    {
-        "entraTenantId": "cdebd2bb-8919-4ce4-9d2e-592c0aba1659",
-        "tenantDescription": "J.M. Langaas Drift AS"
-    }
-    {
-        "entraTenantId": "3b414540-0d8d-417b-9788-32f84e0c1e8e",
-        "tenantDescription": "Royal Culimer FZE"
-    }   
-    {
-        "entraTenantId": "cd4585ef-7b46-447d-b1b3-4600acb260fe",
-        "tenantDescription": "Loðnuvinnslan hf. Fáskrúðsfirði"
-    }
-    {
-        "entraTenantId": "5cd467d7-3913-4deb-b48b-ad7ac97f73bb",
-        "tenantDescription": "Coldwater Prawns of Norway AS"
-    }
-    {
-        "entraTenantId": "8e35f753-b295-41fb-85ae-b9141c91d155",
-        "tenantDescription": "Theta Systems Limited"
-    }
-    {
-        "entraTenantId": "fa7f2d59-aff1-4be9-8bf4-0518aa6c866d",
-        "tenantDescription": "Haustak hf."
-    }
-    {
-        "entraTenantId": "95db3d51-dec3-4f7d-b761-c7006125a1f2",
-        "tenantDescription": "Premium of Iceland sales ehf."
-    }
-    {
-        "entraTenantId": "d4bd746d-d03f-4f5c-9e51-e75ce9f0244f",
-        "tenantDescription": "Útgerðarfélag Grindavíkur ehf."	
-    }
-    {
-        "entraTenantId": "6fcd97be-5ae8-4963-b2a1-3f41837e5b6c",
-        "tenantDescription": "Útgerðarfélagið Ganti ehf."	
-    }
-    {
-        "entraTenantId": "4781e2e2-1b53-4af8-bbbe-4c50036fa239",
-        "tenantDescription": "Nergård AS"	
-    }
-    {
-        "entraTenantId": "b9559d9b-8fc8-4233-b617-00a14ef0a761",
-        "tenantDescription": "WiseFish ehf."	
-    }
-    {
-        "entraTenantId": "ece0c7a1-2840-4f28-9f01-0f4c6be60164",
-       "tenantDescription": "WiseFish ehf."	
-    }
-    {
-        "entraTenantId": "5f57759a-7389-4c37-89cc-ad568c2e7616",
-        "tenantDescription": "Telos Team ApS"	
-    }
+{
+"entraTenantId": "ad8389d4-c50c-4a7c-809f-655e29809ab4",
+"tenantDescription": "Telos Team ApS"
+}
+{
+"entraTenantId": "2de80c6f-cc5c-4d63-a0c0-f0328cd8ad2a",
+"tenantDescription": "Icelandic Fish partners"
+}
+{
+"entraTenantId": "9983fb2f-ef02-434f-85c2-ad487848ad4c",
+"tenantDescription": "Lava Seafood ehf."    
+}
+{
+"entraTenantId": "19f9e26f-481c-46fa-adb9-d454bef42067",
+"tenantDescription": "IceMar ehf."    
+}
+{
+"entraTenantId": "723dabff-58a6-449a-a055-8e540868db72",
+"tenantDescription": "Kuldaboli ehf."  
+}
+{
+"entraTenantId": "121dd6e6-9bdd-4634-8c45-14bf31953b11",
+"tenantDescription": "G.P.G. Seafood ehf."	
+}
+{
+"entraTenantId": "dec57f58-11b3-40e6-872d-4dc669780772",
+"tenantDescription": "Fiskkaup hf."
+}
+{
+"entraTenantId": "05b9956e-65c9-4101-b354-a5ff80c16683",
+"tenantDescription": "Hraðfrystihús Hellissands"        
+}
+{
+"entraTenantId": "08107f38-e08c-48cb-b617-3e946877f400",
+"tenantDescription": "Marz sjávarafurðir ehf"    
+}
+{
+"entraTenantId": "60341f86-f587-4a64-ad1d-0673880e088e",
+"tenantDescription": "Útgerðarfélag Reykjavíkur hf."  
+}
+{
+"entraTenantId": "e8c86932-dc07-473e-b919-6330a45f445e",
+"tenantDescription": "Arctic Prime Fisheries Aps."
+}
+{
+"entraTenantId": "3e16a088-bae3-4be2-9566-65feaab59de7",
+"tenantDescription": "Iceland Seafood ehf"        
+}
+{
+"entraTenantId": "07812b67-c552-428d-bcb8-8a36bcd1ee90",
+"tenantDescription": "Hraðfrystihúsið - Gunnvör hf."  
+}
+{
+"entraTenantId": "9fcb18ca-5a2b-4726-9bce-8d4449aa4998",
+"tenantDescription": "Þorbjörn hf."
+
+}
+{
+"entraTenantId": "c924dda7-5da7-4107-a6ce-3793a099e618",
+"tenantDescription": "Kampi ehf"
+
+}
+{
+"entraTenantId": "d5b5237a-2fcf-4026-99c7-db886f7a06d5",
+"tenantDescription": "Síldarvinnslan"
+
+}
+{
+"entraTenantId": "025a44c9-42cf-42f8-adf3-90920a23793d",
+"tenantDescription": "Danica sjávarafurðir ehf"
+
+}
+{
+"entraTenantId": "c551d1af-488a-4464-a5ac-ed38911202e3",
+"tenantDescription": "WiseFish ehf."
+
+}
+{
+"entraTenantId": "e0607d81-11db-4e73-b021-568727b9fbc2",
+"tenantDescription": "EE ehf."
+
+}
+{
+"entraTenantId": "4643afdd-7b9d-49cf-89c2-310ae11dd4b5",
+"tenantDescription": "Íslandssaga"
+}
+{
+"entraTenantId": "1c6f3886-7382-4452-9a48-048281a0c5a1",
+"tenantDescription": "Spes Seafood ehf."
+}
+{
+"entraTenantId": "381b2412-72d9-4793-a70d-41f8137d6830",
+"tenantDescription": "Jakob Valgeir ehf"
+}
+{
+"entraTenantId": "819dc9ce-9ffd-4ee1-a819-c06902a9d81a",
+"tenantDescription": "Menja hf."
+}
+{
+"entraTenantId": "cdebd2bb-8919-4ce4-9d2e-592c0aba1659",
+"tenantDescription": "J.M. Langaas Drift AS"
+}
+{
+"entraTenantId": "3b414540-0d8d-417b-9788-32f84e0c1e8e",
+"tenantDescription": "Royal Culimer FZE"
+}   
+{
+"entraTenantId": "cd4585ef-7b46-447d-b1b3-4600acb260fe",
+"tenantDescription": "Loðnuvinnslan hf. Fáskrúðsfirði"
+}
+{
+"entraTenantId": "5cd467d7-3913-4deb-b48b-ad7ac97f73bb",
+"tenantDescription": "Coldwater Prawns of Norway AS"
+}
+{
+"entraTenantId": "8e35f753-b295-41fb-85ae-b9141c91d155",
+"tenantDescription": "Theta Systems Limited"
+}
+{
+"entraTenantId": "fa7f2d59-aff1-4be9-8bf4-0518aa6c866d",
+"tenantDescription": "Haustak hf."
+}
+{
+"entraTenantId": "95db3d51-dec3-4f7d-b761-c7006125a1f2",
+"tenantDescription": "Premium of Iceland sales ehf."
+}
+{
+"entraTenantId": "d4bd746d-d03f-4f5c-9e51-e75ce9f0244f",
+"tenantDescription": "Útgerðarfélag Grindavíkur ehf."	
+}
+{
+"entraTenantId": "6fcd97be-5ae8-4963-b2a1-3f41837e5b6c",
+"tenantDescription": "Útgerðarfélagið Ganti ehf."	
+}
+{
+"entraTenantId": "4781e2e2-1b53-4af8-bbbe-4c50036fa239",
+"tenantDescription": "Nergård AS"	
+}
+{
+"entraTenantId": "b9559d9b-8fc8-4233-b617-00a14ef0a761",
+"tenantDescription": "WiseFish ehf."	
+}
+{
+"entraTenantId": "ece0c7a1-2840-4f28-9f01-0f4c6be60164",
+"tenantDescription": "WiseFish ehf."	
+}
+{
+"entraTenantId": "5f57759a-7389-4c37-89cc-ad568c2e7616",
+"tenantDescription": "Telos Team ApS"	
+}
 
 ]
